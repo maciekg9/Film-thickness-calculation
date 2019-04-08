@@ -1,3 +1,5 @@
+Spin-coating film thickness calculation application which implements Bornside and co-ops. mathematical model.
+
 BOTH POLYMER AND SOLVENT FILES HAVE A FIXED ORDER, THE APPLICATION READS EACH FILE LINE AFTER LINE.
 
 The following applies to the polymer used to prepare the film:
